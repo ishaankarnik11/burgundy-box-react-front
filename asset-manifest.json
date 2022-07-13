@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.350fb160.js",
-    "index.html": "/index.html",
-    "main.350fb160.js.map": "/static/js/main.350fb160.js.map"
+    "main.js": "/burgundy-box-react-front/static/js/main.350fb160.js",
+    "index.html": "/burgundy-box-react-front/index.html",
+    "main.350fb160.js.map": "/burgundy-box-react-front/static/js/main.350fb160.js.map"
   },
   "entrypoints": [
     "static/js/main.350fb160.js"
